@@ -2,7 +2,7 @@
 
 ## Overview
 
-ASDCare is a machine learning-based application designed to predict Autism Spectrum Disorder (ASD) early using diverse datasets, including behavioral observations, neuroimaging, and genetic markers. The application achieves high accuracy, enabling personalized interventions and contributing to precision medicine in neurodevelopmental disorders.
+ASDCare is a machine learning-based application designed to predict Autism Spectrum Disorder (ASD) early using diverse datasets, including behavioral observations, neuroimaging, and genetic markers. The application achieves high accuracy, contributing to precision medicine in neurodevelopmental disorders.
 
 ## Features
 
