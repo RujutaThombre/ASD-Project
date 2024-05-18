@@ -1,4 +1,4 @@
-# ASDCare: Early Detection and Intervention for Autism Spectrum Disorder
+# ASDCare: Early Detection of Autism Spectrum Disorder
 
 ## Overview
 
